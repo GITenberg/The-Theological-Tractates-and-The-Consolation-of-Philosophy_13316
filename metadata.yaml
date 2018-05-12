@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4992
     wikipedia: http://en.wikipedia.org/wiki/Anicius_Manlius_Severinus_Boethius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13316#The-Theological-Tractates-and-The-Consolation-of-Philosophy
 gutenberg_bookshelf:
 - Philosophy
 - Classical Antiquity
